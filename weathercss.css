@@ -1,0 +1,19 @@
+
+body {
+    background-color: #EAA11B;
+}
+
+.past-searches-area {
+    margin-top: 16px;
+}
+
+.forecast {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.forecast-item {
+    margin-bottom: 16px;
+    margin-right: 16px;
+}
